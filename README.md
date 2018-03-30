@@ -37,12 +37,12 @@ gulp
 * Click a book to open:
   * book cover and author info
   * chapters
-    * at the end of chapter, one can click buttons to add a bookmark, to like the chapter, to create a new chapter (new branch), or to edit the chapter
-    * at the end of chapter, one can drag images in the carousel to select the next chapter to read
+    * at the end of chapter, click buttons to add a bookmark, to like the chapter, to create a new chapter (new branch), or to edit the chapter
+    * at the end of chapter, drag images in the carousel to select the next chapter to read
 
 ## Known bugs
 
-* Branch switch results in blank page on ios chrome, because `history`, one of package used in the project, have some bugs supporting ios chrome.
+* Branch switch results in blank page on ios chrome, because one of package `history`, have some bugs supporting ios chrome.
 
 ## Tech Stack
 
