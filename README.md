@@ -72,7 +72,7 @@ gulp
 * [x] [Google Cloud Platform](https://cloud.google.com/) - build and host applications and websites, store data, and analyze data on Google's scalable infrastructure
 * [x] [let's encrypt](https://letsencrypt.org/) - free SSL/TLS certificates
 
-## Contributing
+## To Contribute
 
 1. Fork it!
 1. Create your feature branch: `git checkout -b my-new-feature`
