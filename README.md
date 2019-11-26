@@ -2,6 +2,8 @@
 
 An open-source platform for comic/manga co-authoring
 
+Cocomic is an open-source comic/managa co-authoring platform. Similar to GitHub, Cocomic grants users the rights to study, change and distribute the drawing to anyone and for any purpose. Cocomic is also a VCS([Version Control System](https://en.wikipedia.org/wiki/Version_control)) allowing users to edit and publish on different versions.
+
 ## How to run the example code
 
 ### development version
